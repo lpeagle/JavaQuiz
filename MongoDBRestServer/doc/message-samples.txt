@@ -1,0 +1,25 @@
+create put/post http://localhost:8091/restAPI/items/
+
+{
+"id": 10,
+"name": "bottle"
+}
+
+{
+"message": "[Entry{id=10, name='bottle'}] created"
+"details": null
+"success": true
+}
+
+GET http://localhost:8091/restAPI/items/10
+
+
+{"message":"{\"id\":10,\"name\":\"bottle\"}","details":null,"success":true}
+
+GET http://localhost:8091/restAPI/items/10
+
+{
+"message": "entry not exist"
+"details": null
+"success": true
+}

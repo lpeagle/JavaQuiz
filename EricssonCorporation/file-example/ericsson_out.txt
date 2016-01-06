@@ -1,0 +1,4 @@
+Employee    Total Pay
+Employee 1 Invalid base rate:7.50
+Employee 2 414.10
+Employee 3 Invalid working hours:73

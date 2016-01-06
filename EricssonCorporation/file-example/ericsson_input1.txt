@@ -1,0 +1,4 @@
+Employee    Base Pay  Hours Worked
+Employee 1  $7.50     35
+Employee 2  $8.20     47
+Employee 3  $10.00    73
