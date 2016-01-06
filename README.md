@@ -1,2 +1,2 @@
 # JavaQuiz
-Some Java Example applications
+Some Java example applications
